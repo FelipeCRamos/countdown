@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 """
-Author: FelipeCRamos
+Author: FelipeCRamos and Felpsisonfire
 """
 
 import sys
@@ -69,6 +69,7 @@ if(len(sys.argv) >= 3):
         print("Ops, didn't saw that coming...")
         print("Error: {}".format(exp))
         print("Please, feel free to drop that exception on my github page!")
+        print("Or email me! felipecramos@gmail.com")
         exit()
 
 else:
